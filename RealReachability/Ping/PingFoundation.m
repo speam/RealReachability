@@ -52,6 +52,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <errno.h>
+#import <sys/_types/_sa_family_t.h>
 
 #pragma mark * IPv4 and ICMPv4 On-The-Wire Format
 
